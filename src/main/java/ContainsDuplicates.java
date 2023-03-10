@@ -15,6 +15,6 @@ public class ContainsDuplicates {
                 }
             }
         }
-        return false;
+        return false; 
     }
 }
